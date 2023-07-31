@@ -6,6 +6,6 @@
 <body>
   <h1>My Map on Google Maps</h1>
   
-   <iframe src="EMBEDDABLE_URL" width="600" height="450"></iframe>
+   <iframe src="https://github.com/m-stelter/maptest/blob/main/googleembedded" width="600" height="450"></iframe>
 </body>
 </html>
